@@ -1,0 +1,16 @@
+{
+  "name": "phupq_blog",
+  "version": "1.0.0",
+  "description": "My first node js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js localhost 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PhuPQ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
