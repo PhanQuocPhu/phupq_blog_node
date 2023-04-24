@@ -4,7 +4,8 @@
     {
       "files": "*.hbs",
       "options": {
-        "singleQuote": false
+        "singleQuote": false,
+        "parser": "glimmer"
       }
     }
   ]
